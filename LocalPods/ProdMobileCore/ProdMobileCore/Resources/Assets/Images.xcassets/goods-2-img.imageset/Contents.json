@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "memi-klev-club-g9ep-p-memi-khleb-sobaka-1.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
